@@ -3,10 +3,10 @@ Breast ultrasound lesion classifier using PyTorch & the BreastMNIST dataset.
 
 🔍 Overview
 
-This project trains a convolutional neural network (CNN) to classify malignant vs benign ultrasound images.
+This project trains a convolutional neural network (CNN) to classify malignant vs benign breast ultrasound images.
 It uses the BreastMNIST subset from the MedMNIST medical imaging benchmark.
 
-🧠 Machine Learning Pipeline
+🧠 Machine Learning Pipeline: 
     •    BreastMNIST loading + preprocessing
     •    Train/validation/test split
     •    CNN training with Early Stopping
@@ -19,6 +19,6 @@ It uses the BreastMNIST subset from the MedMNIST medical imaging benchmark.
  • models/breastmnist_cnn.pth
  • requirements.txt
 
-🚀 Key Results
+🚀 Key Results: 
     •    High lesion recall (important for cancer screening)
     •    Clean PyTorch training + evaluation pipeline
