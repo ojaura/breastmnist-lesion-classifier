@@ -13,13 +13,11 @@ It uses the BreastMNIST subset from the MedMNIST medical imaging benchmark.
     •    Performance evaluation (recall, F1-score, confusion matrix)
     •    Saved trained model (.pth)
 
-📁 Repository Structure
-breast-mnist-lesion-classifier
--- Breast-Lesion-Detection.ipynb
--- models/
-      - breastmnist_cnn.pth
--- requirements.txt
--- README.md
+📁 Repository Structure includes:
+ • breast-mnist-lesion-classifier
+ • Breast-Lesion-Detection.ipynb
+ • models/breastmnist_cnn.pth
+ • requirements.txt
 
 🚀 Key Results
     •    High lesion recall (important for cancer screening)
